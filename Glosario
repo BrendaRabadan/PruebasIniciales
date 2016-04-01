@@ -1,0 +1,5 @@
+function showMessage(mesnaje){
+
+alert("\""+mensaje+"\"");
+
+}
